@@ -1,0 +1,43 @@
+{
+  "generated_on": "2026-06-10",
+  "bottles_per_month": [
+    0,
+    1,
+    8,
+    7,
+    8,
+    0,
+    1,
+    7,
+    5,
+    8,
+    8,
+    3,
+    4,
+    7,
+    8,
+    8,
+    7,
+    8,
+    3,
+    8,
+    4,
+    8,
+    3,
+    7
+  ],
+  "by_style": {
+    "red": 24,
+    "white": 12,
+    "sparkling": 6,
+    "dessert": 3,
+    "fortified": 3
+  },
+  "by_region": {
+    "Bordeaux": 9,
+    "Burgundy": 7,
+    "Tuscany": 6,
+    "Napa Valley": 5,
+    "Rioja": 4
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "version": 2,
+  "bottles": [
+    {
+      "title": "Château Margaux",
+      "id": "bottle-00",
+      "producer_ids": [
+        "prod-00"
+      ],
+      "lwin": "1011266",
+      "region_id": null,
+      "vertical_id": null,
+      "vertical_index": null,
+      "vintage": 2015,
+      "varietal": "Cabernet Sauvignon",
+      "country": "France",
+      "volume_ml": 750,
+      "ml_poured": 0,
+      "price": 650.0,
+      "currency": "USD",
+      "drink_from": 2030,
+      "drink_to": 2055,
+      "cellar_location": "A1-1",
+      "kind": "red",
+      "format": "750ml",
+      "status": "cellared",
+      "acquired_at": null,
+      "started_at": null,
+      "finished_at": null,
+      "tag_ids": [
+        "tag-first"
+      ],
+      "wishlist_ids": [],
+      "label_url": "",
+      "description": "",
+      "source": "manual",
+      "notes_count": 0,
+      "metadata": {},
+      "rating": 5.0
+    },
+    {
+      "title": "Penfolds Grange",
+      "id": "bottle-01",
+      "producer_ids": [
+        "prod-01"
+      ],
+      "lwin": "2033444",
+      "region_id": null,
+      "vertical_id": null,
+      "vertical_index": null,
+      "vintage": 2016,
+      "varietal": "Shiraz",
+      "country": "Australia",
+      "volume_ml": 750,
+      "ml_poured": 0,
+      "price": 900.0,
+      "currency": "USD",
+      "drink_from": 2026,
+      "drink_to": 2046,
+      "cellar_location": "B2-2",
+      "kind": "red",
+      "format": "750ml",
+      "status": "open",
+      "acquired_at": null,
+      "started_at": null,
+      "finished_at": null,
+      "tag_ids": [
+        "tag-first"
+      ],
+      "wishlist_ids": [],
+      "label_url": "",
+      "description": "",
+      "source": "manual",
+      "notes_count": 0,
+      "metadata": {},
+      "rating": 4.5
+    },
+    {
+      "title": "Sassicaia",
+      "id": "bottle-02",
+      "producer_ids": [
+        "prod-02"
+      ],
+      "lwin": "1099880",
+      "region_id": null,
+      "vertical_id": null,
+      "vertical_index": null,
+      "vintage": 2019,
+      "varietal": "Cabernet Sauvignon",
+      "country": "Italy",
+      "volume_ml": 750,
+      "ml_poured": 0,
+      "price": 280.0,
+      "currency": "USD",
+      "drink_from": 2027,
+      "drink_to": 2045,
+      "cellar_location": "C3-3",
+      "kind": "red",
+      "format": "750ml",
+      "status": "cellared",
+      "acquired_at": null,
+      "started_at": null,
+      "finished_at": null,
+      "tag_ids": [
+        "tag-first"
+      ],
+      "wishlist_ids": [],
+      "label_url": "",
+      "description": "",
+      "source": "manual",
+      "notes_count": 0,
+      "metadata": {},
+      "rating": null
+    },
+    {
+      "title": "Rioja Gran Reserva",
+      "id": "bottle-03",
+      "producer_ids": [
+        "prod-03"
+      ],
+      "lwin": null,
+      "region_id": null,
+      "vertical_id": null,
+      "vertical_index": null,
+      "vintage": 2015,
+      "varietal": "Tempranillo",
+      "country": "Spain",
+      "volume_ml": 750,
+      "ml_poured": 750,
+      "price": 55.0,
+      "currency": "USD",
+      "drink_from": 2023,
+      "drink_to": 2035,
+      "cellar_location": "D4-4",
+      "kind": "red",
+      "format": "750ml",
+      "status": "drunk",
+      "acquired_at": null,
+      "started_at": null,
+      "finished_at": "2020-06-15",
+      "tag_ids": [
+        "tag-value"
+      ],
+      "wishlist_ids": [],
+      "label_url": "",
+      "description": "",
+      "source": "manual",
+      "notes_count": 0,
+      "metadata": {},
+      "rating": 4.0
+    },
+    {
+      "title": "Chablis Premier Cru",
+      "id": "bottle-04",
+      "producer_ids": [
+        "prod-04"
+      ],
+      "lwin": null,
+      "region_id": null,
+      "vertical_id": null,
+      "vertical_index": null,
+      "vintage": 2021,
+      "varietal": "Chardonnay",
+      "country": "France",
+      "volume_ml": 750,
+      "ml_poured": 750,
+      "price": 60.0,
+      "currency": "USD",
+      "drink_from": 2024,
+      "drink_to": 2030,
+      "cellar_location": "E1-5",
+      "kind": "red",
+      "format": "750ml",
+      "status": "drunk",
+      "acquired_at": null,
+      "started_at": null,
+      "finished_at": "2025-06-15",
+      "tag_ids": [
+        "tag-value"
+      ],
+      "wishlist_ids": [],
+      "label_url": "",
+      "description": "",
+      "source": "manual",
+      "notes_count": 0,
+      "metadata": {},
+      "rating": 4.0
+    },
+    {
+      "title": "Barolo Brunate",
+      "id": "bottle-05",
+      "producer_ids": [
+        "prod-05"
+      ],
+      "lwin": null,
+      "region_id": null,
+      "vertical_id": null,
+      "vertical_index": null,
+      "vintage": 2018,
+      "varietal": "Nebbiolo",
+      "country": "Italy",
+      "volume_ml": 750,
+      "ml_poured": 0,
+      "price": 180.0,
+      "currency": "USD",
+      "drink_from": 2028,
+      "drink_to": 2048,
+      "cellar_location": "F2-6",
+      "kind": "red",
+      "format": "750ml",
+      "status": "cellared",
+      "acquired_at": null,
+      "started_at": null,
+      "finished_at": null,
+      "tag_ids": [
+        "tag-first"
+      ],
+      "wishlist_ids": [],
+      "label_url": "",
+      "description": "",
+      "source": "manual",
+      "notes_count": 0,
+      "metadata": {},
+      "rating": null
+    },
+    {
+      "title": "Cloudy Bay Sauvignon Blanc",
+      "id": "bottle-06",
+      "producer_ids": [
+        "prod-06"
+      ],
+      "lwin": null,
+      "region_id": null,
+      "vertical_id": null,
+      "vertical_index": null,
+      "vintage": 2022,
+      "varietal": "Sauvignon Blanc",
+      "country": "New Zealand",
+      "volume_ml": 750,
+      "ml_poured": 750,
+      "price": 30.0,
+      "currency": "USD",
+      "drink_from": 2023,
+      "drink_to": 2026,
+      "cellar_location": "A3-7",
+      "kind": "red",
+      "format": "750ml",
+      "status": "drunk",
+      "acquired_at": null,
+      "started_at": null,
+      "finished_at": "2025-06-15",
+      "tag_ids": [
+        "tag-value"
+      ],
+      "wishlist_ids": [],
+      "label_url": "",
+      "description": "",
+      "source": "manual",
+      "notes_count": 0,
+      "metadata": {},
+      "rating": 3.5
+    },
+    {
+      "title": "Krug Grande Cuvée",
+      "id": "bottle-07",
+      "producer_ids": [
+        "prod-07"
+      ],
+      "lwin": null,
+      "region_id": null,
+      "vertical_id": null,
+      "vertical_index": null,
+      "vintage": 2012,
+      "varietal": "Chardonnay",
+      "country": "France",
+      "volume_ml": 750,
+      "ml_poured": 0,
+      "price": 200.0,
+      "currency": "USD",
+      "drink_from": 2022,
+      "drink_to": 2040,
+      "cellar_location": "B4-8",
+      "kind": "red",
+      "format": "750ml",
+      "status": "want",
+      "acquired_at": null,
+      "started_at": null,
+      "finished_at": null,
+      "tag_ids": [
+        "tag-first"
+      ],
+      "wishlist_ids": [],
+      "label_url": "",
+      "description": "",
+      "source": "manual",
+      "notes_count": 0,
+      "metadata": {},
+      "rating": null
+    }
+  ],
+  "producers": [
+    {
+      "name": "Château Margaux",
+      "id": "prod-00",
+      "bio": "",
+      "birth_year": null,
+      "death_year": null,
+      "website": "",
+      "email": null,
+      "aliases": [],
+      "bottle_ids": []
+    },
+    {
+      "name": "Penfolds",
+      "id": "prod-01",
+      "bio": "",
+      "birth_year": null,
+      "death_year": null,
+      "website": "",
+      "email": null,
+      "aliases": [],
+      "bottle_ids": []
+    },
+    {
+      "name": "Tenuta San Guido",
+      "id": "prod-02",
+      "bio": "",
+      "birth_year": null,
+      "death_year": null,
+      "website": "",
+      "email": null,
+      "aliases": [],
+      "bottle_ids": []
+    },
+    {
+      "name": "Bodega Muga",
+      "id": "prod-03",
+      "bio": "",
+      "birth_year": null,
+      "death_year": null,
+      "website": "",
+      "email": null,
+      "aliases": [],
+      "bottle_ids": []
+    },
+    {
+      "name": "Domaine Roulot",
+      "id": "prod-04",
+      "bio": "",
+      "birth_year": null,
+      "death_year": null,
+      "website": "",
+      "email": null,
+      "aliases": [],
+      "bottle_ids": []
+    },
+    {
+      "name": "Giuseppe Rinaldi",
+      "id": "prod-05",
+      "bio": "",
+      "birth_year": null,
+      "death_year": null,
+      "website": "",
+      "email": null,
+      "aliases": [],
+      "bottle_ids": []
+    },
+    {
+      "name": "Cloudy Bay",
+      "id": "prod-06",
+      "bio": "",
+      "birth_year": null,
+      "death_year": null,
+      "website": "",
+      "email": null,
+      "aliases": [],
+      "bottle_ids": []
+    },
+    {
+      "name": "Krug",
+      "id": "prod-07",
+      "bio": "",
+      "birth_year": null,
+      "death_year": null,
+      "website": "",
+      "email": null,
+      "aliases": [],
+      "bottle_ids": []
+    }
+  ],
+  "wishlists": [],
+  "tastings": [
+    {
+      "bottle_id": "bottle-01",
+      "id": "98cba1b9-a1e3-4a55-840c-0c3bb6da37fe",
+      "started_at": "2025-03-15T20:00:00",
+      "ml_start": 0,
+      "ml_end": 200,
+      "score": 4.5,
+      "occasion": "Sunday roast",
+      "with_whom": "",
+      "notes": ""
+    }
+  ],
+  "tags": [
+    {
+      "id": "tag-first",
+      "name": "first-growth",
+      "slug": "first-growth",
+      "color": "#7b1e3a",
+      "usage_count": 0
+    },
+    {
+      "id": "tag-value",
+      "name": "everyday",
+      "slug": "everyday",
+      "color": "#2d6a4f",
+      "usage_count": 0
+    }
+  ],
+  "ratings": [
+    {
+      "id": "f2336fdc-82a1-4b0a-92ae-b5c30b2fb2f9",
+      "bottle_id": "bottle-00",
+      "value": 5.0,
+      "review": "",
+      "created_at": "2026-06-10T09:06:21.417710",
+      "source": "manual"
+    },
+    {
+      "id": "379a0868-b311-46f7-a199-57e072c6ad70",
+      "bottle_id": "bottle-01",
+      "value": 4.5,
+      "review": "",
+      "created_at": "2026-06-10T09:06:21.417710",
+      "source": "manual"
+    },
+    {
+      "id": "b1a4e002-9445-4e25-a742-6b40e95c36fe",
+      "bottle_id": "bottle-03",
+      "value": 4.0,
+      "review": "",
+      "created_at": "2026-06-10T09:06:21.417710",
+      "source": "manual"
+    },
+    {
+      "id": "44085def-de01-44e8-b3c8-51ce60b6bd8a",
+      "bottle_id": "bottle-04",
+      "value": 4.0,
+      "review": "",
+      "created_at": "2026-06-10T09:06:21.417710",
+      "source": "manual"
+    },
+    {
+      "id": "8ea3d64b-3a0f-4e34-aad1-763781a9f82c",
+      "bottle_id": "bottle-06",
+      "value": 3.5,
+      "review": "",
+      "created_at": "2026-06-10T09:06:21.417710",
+      "source": "manual"
+    }
+  ],
+  "goals": [
+    {
+      "id": "04fe1643-6585-4b41-9257-278086336252",
+      "name": "Drink 24 in 2026",
+      "goal_type": "bottles",
+      "target": 24,
+      "period": "year",
+      "start_date": "2025-01-01",
+      "end_date": "2026-12-31",
+      "progress": 0,
+      "completed": false,
+      "recurring_id": null
+    }
+  ],
+  "quotes": [],
+  "notes": [],
+  "vertical": [],
+  "regions": [],
+  "collections": [],
+  "audit": [],
+  "plugins": {},
+  "recurring": [],
+  "meta": {
+    "owner": "Marwan Helmy"
+  }
+}
