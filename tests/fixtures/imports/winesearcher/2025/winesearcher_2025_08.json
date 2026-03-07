@@ -1,0 +1,85 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "2707145",
+      "name": "Penfolds Cabernet Sauvignon",
+      "vintage": 2017,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 77.52,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "1721756",
+      "name": "Catena Zapata Tempranillo",
+      "vintage": 2011,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 15.54,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "5541875",
+      "name": "Ridge Vineyards Merlot",
+      "vintage": 1994,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 27.0,
+      "currency": "USD",
+      "score": 100.0
+    },
+    {
+      "lwin": "5549788",
+      "name": "Ridge Vineyards Cabernet Sauvignon",
+      "vintage": 1995,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 538.99,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "9102944",
+      "name": "Château Lestage Pinot Noir",
+      "vintage": 2003,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 134.98,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "8521853",
+      "name": "Penfolds Syrah",
+      "vintage": 1998,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 396.88,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "8132536",
+      "name": "Catena Zapata Grenache",
+      "vintage": 1999,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 461.42,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "2581648",
+      "name": "Bodega Muga Grenache",
+      "vintage": 2015,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 143.39,
+      "currency": "USD",
+      "score": 64.0
+    }
+  ]
+}

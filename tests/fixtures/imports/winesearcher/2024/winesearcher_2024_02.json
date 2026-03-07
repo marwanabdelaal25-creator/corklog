@@ -1,0 +1,85 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "6820117",
+      "name": "Penfolds Riesling",
+      "vintage": 2015,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 249.96,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "6021190",
+      "name": "Château Lestage Nebbiolo",
+      "vintage": 1991,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 306.95,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "4054153",
+      "name": "Tenuta San Guido Merlot",
+      "vintage": 2006,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 120.89,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "5478234",
+      "name": "Penfolds Pinot Noir",
+      "vintage": 2021,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 199.29,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "4085759",
+      "name": "Tenuta San Guido Sangiovese",
+      "vintage": 2017,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 572.58,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "2088541",
+      "name": "Domaine Roulot Pinot Noir",
+      "vintage": 2011,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 548.19,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "5648688",
+      "name": "Bodega Muga Merlot",
+      "vintage": 2017,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 482.34,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "7585414",
+      "name": "Penfolds Syrah",
+      "vintage": 2001,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 435.68,
+      "currency": "USD",
+      "score": 92.0
+    }
+  ]
+}

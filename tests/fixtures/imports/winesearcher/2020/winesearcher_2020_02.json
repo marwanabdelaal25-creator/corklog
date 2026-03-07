@@ -1,0 +1,155 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "1656170",
+      "name": "Domaine Roulot Tempranillo",
+      "vintage": 2000,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 275.88,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "2667944",
+      "name": "Catena Zapata Chardonnay",
+      "vintage": 1993,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 29.5,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "7113943",
+      "name": "Tenuta San Guido Chardonnay",
+      "vintage": 2021,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 417.27,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "5261041",
+      "name": "Quinta do Noval Syrah",
+      "vintage": 1999,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 227.81,
+      "currency": "USD",
+      "score": 60.0
+    },
+    {
+      "lwin": "6703757",
+      "name": "Penfolds Cabernet Sauvignon",
+      "vintage": 2002,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 482.08,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "4919921",
+      "name": "Catena Zapata Pinot Noir",
+      "vintage": 2009,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 391.2,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "1525489",
+      "name": "Catena Zapata Sangiovese",
+      "vintage": 2001,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 327.5,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "6247805",
+      "name": "Catena Zapata Grenache",
+      "vintage": 1995,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 366.71,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "7683666",
+      "name": "Château Lestage Sangiovese",
+      "vintage": 2013,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 259.76,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "5254843",
+      "name": "Catena Zapata Riesling",
+      "vintage": 1994,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 559.02,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "8146980",
+      "name": "Domaine Roulot Pinot Noir",
+      "vintage": 2008,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 372.77,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "8879556",
+      "name": "Catena Zapata Sangiovese",
+      "vintage": 2007,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 506.74,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "2499141",
+      "name": "Château Lestage Sangiovese",
+      "vintage": 2014,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 136.56,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "5095979",
+      "name": "Domaine Roulot Sangiovese",
+      "vintage": 2014,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 231.8,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "7643739",
+      "name": "Quinta do Noval Syrah",
+      "vintage": 1999,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 335.4,
+      "currency": "USD",
+      "score": 64.0
+    }
+  ]
+}

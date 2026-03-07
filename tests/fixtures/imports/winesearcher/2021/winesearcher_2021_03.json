@@ -1,0 +1,85 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "3759825",
+      "name": "Dr. Loosen Nebbiolo",
+      "vintage": 2009,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 421.02,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "3687759",
+      "name": "Bodega Muga Cabernet Sauvignon",
+      "vintage": 2012,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 364.09,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "7727754",
+      "name": "Château Lestage Riesling",
+      "vintage": 2015,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 67.44,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "2876395",
+      "name": "Quinta do Noval Cabernet Sauvignon",
+      "vintage": 2015,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 112.55,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "7242865",
+      "name": "Catena Zapata Chardonnay",
+      "vintage": 2008,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 553.59,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "8913492",
+      "name": "Catena Zapata Riesling",
+      "vintage": 2009,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 53.45,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "9020982",
+      "name": "Penfolds Syrah",
+      "vintage": 2019,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 240.53,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "7138084",
+      "name": "Quinta do Noval Merlot",
+      "vintage": 1990,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 99.93,
+      "currency": "USD",
+      "score": 92.0
+    }
+  ]
+}

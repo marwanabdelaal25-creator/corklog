@@ -1,0 +1,95 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "3596581",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 1991,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 273.64,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "4670491",
+      "name": "Quinta do Noval Tempranillo",
+      "vintage": 2000,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 351.14,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "9594669",
+      "name": "Ridge Vineyards Pinot Noir",
+      "vintage": 2018,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 292.38,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "1419755",
+      "name": "Penfolds Merlot",
+      "vintage": 2009,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 291.39,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "5939204",
+      "name": "Domaine Roulot Tempranillo",
+      "vintage": 1995,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 592.89,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "6606526",
+      "name": "Tenuta San Guido Cabernet Sauvignon",
+      "vintage": 1995,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 72.6,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "1514541",
+      "name": "Dr. Loosen Grenache",
+      "vintage": 2016,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 527.43,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "7510274",
+      "name": "Penfolds Pinot Noir",
+      "vintage": 2005,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 589.39,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "5662383",
+      "name": "Quinta do Noval Chardonnay",
+      "vintage": 1994,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 195.76,
+      "currency": "USD",
+      "score": 80.0
+    }
+  ]
+}

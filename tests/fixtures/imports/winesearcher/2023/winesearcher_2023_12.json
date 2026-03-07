@@ -1,0 +1,135 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "2228869",
+      "name": "Dr. Loosen Riesling",
+      "vintage": 2012,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 344.6,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "6040170",
+      "name": "Penfolds Sangiovese",
+      "vintage": 2021,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 239.87,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "8532555",
+      "name": "Bodega Muga Riesling",
+      "vintage": 1992,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 284.43,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "2238874",
+      "name": "Domaine Roulot Chardonnay",
+      "vintage": 2017,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 269.56,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "7610910",
+      "name": "Bodega Muga Sangiovese",
+      "vintage": 1994,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 595.84,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "2058169",
+      "name": "Quinta do Noval Pinot Noir",
+      "vintage": 1991,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 281.92,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "2320987",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 1993,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 141.9,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "2006100",
+      "name": "Quinta do Noval Nebbiolo",
+      "vintage": 1990,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 552.52,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "2453272",
+      "name": "Château Lestage Riesling",
+      "vintage": 2009,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 331.84,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "9914257",
+      "name": "Château Lestage Chardonnay",
+      "vintage": 2000,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 234.63,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "5512739",
+      "name": "Bodega Muga Cabernet Sauvignon",
+      "vintage": 1996,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 373.82,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "3337277",
+      "name": "Domaine Roulot Tempranillo",
+      "vintage": 2004,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 81.85,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "2105968",
+      "name": "Dr. Loosen Grenache",
+      "vintage": 2009,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 298.05,
+      "currency": "USD",
+      "score": 60.0
+    }
+  ]
+}

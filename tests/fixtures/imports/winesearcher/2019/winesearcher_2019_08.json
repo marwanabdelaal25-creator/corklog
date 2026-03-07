@@ -1,0 +1,105 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "2905742",
+      "name": "Tenuta San Guido Pinot Noir",
+      "vintage": 2005,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 521.15,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "4282646",
+      "name": "Château Lestage Sangiovese",
+      "vintage": 2004,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 229.33,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "9005690",
+      "name": "Quinta do Noval Nebbiolo",
+      "vintage": 2005,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 450.04,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "7417325",
+      "name": "Dr. Loosen Riesling",
+      "vintage": 1998,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 215.11,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "8992220",
+      "name": "Ridge Vineyards Cabernet Sauvignon",
+      "vintage": 1998,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 365.09,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "5065421",
+      "name": "Ridge Vineyards Riesling",
+      "vintage": 1990,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 506.59,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "7457232",
+      "name": "Catena Zapata Chardonnay",
+      "vintage": 1992,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 501.72,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "4659745",
+      "name": "Bodega Muga Riesling",
+      "vintage": 2017,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 392.43,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "7572124",
+      "name": "Ridge Vineyards Merlot",
+      "vintage": 2006,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 279.88,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "6458130",
+      "name": "Domaine Roulot Pinot Noir",
+      "vintage": 1999,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 413.41,
+      "currency": "USD",
+      "score": 96.0
+    }
+  ]
+}

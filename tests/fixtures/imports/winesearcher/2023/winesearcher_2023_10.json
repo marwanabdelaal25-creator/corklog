@@ -1,0 +1,85 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "8825002",
+      "name": "Bodega Muga Syrah",
+      "vintage": 2014,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 52.64,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "1772030",
+      "name": "Domaine Roulot Tempranillo",
+      "vintage": 1997,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 210.67,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "7584998",
+      "name": "Domaine Roulot Pinot Noir",
+      "vintage": 2022,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 41.54,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "1595013",
+      "name": "Quinta do Noval Sangiovese",
+      "vintage": 2012,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 472.56,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "5812317",
+      "name": "Bodega Muga Chardonnay",
+      "vintage": 2009,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 37.9,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "2786204",
+      "name": "Château Lestage Merlot",
+      "vintage": 1996,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 43.36,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "5234840",
+      "name": "Château Lestage Riesling",
+      "vintage": 2016,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 269.61,
+      "currency": "USD",
+      "score": 60.0
+    },
+    {
+      "lwin": "2695098",
+      "name": "Penfolds Sangiovese",
+      "vintage": 1998,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 470.91,
+      "currency": "USD",
+      "score": 70.0
+    }
+  ]
+}

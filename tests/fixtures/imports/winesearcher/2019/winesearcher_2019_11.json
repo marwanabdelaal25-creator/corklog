@@ -1,0 +1,155 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "6739135",
+      "name": "Quinta do Noval Nebbiolo",
+      "vintage": 2012,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 386.92,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "1279353",
+      "name": "Bodega Muga Merlot",
+      "vintage": 1998,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 487.28,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "8724901",
+      "name": "Ridge Vineyards Tempranillo",
+      "vintage": 1997,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 93.01,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "4710739",
+      "name": "Bodega Muga Riesling",
+      "vintage": 2014,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 126.82,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "7421513",
+      "name": "Quinta do Noval Chardonnay",
+      "vintage": 1998,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 522.04,
+      "currency": "USD",
+      "score": 60.0
+    },
+    {
+      "lwin": "8677820",
+      "name": "Tenuta San Guido Cabernet Sauvignon",
+      "vintage": 2000,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 388.75,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "5722397",
+      "name": "Domaine Roulot Pinot Noir",
+      "vintage": 1996,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 556.02,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "8264737",
+      "name": "Tenuta San Guido Grenache",
+      "vintage": 2022,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 519.48,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "7360335",
+      "name": "Penfolds Riesling",
+      "vintage": 2017,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 278.63,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "7145641",
+      "name": "Quinta do Noval Riesling",
+      "vintage": 1990,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 528.62,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "2105552",
+      "name": "Domaine Roulot Pinot Noir",
+      "vintage": 1996,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 442.81,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "1269036",
+      "name": "Quinta do Noval Chardonnay",
+      "vintage": 2009,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 404.43,
+      "currency": "USD",
+      "score": 100.0
+    },
+    {
+      "lwin": "3595455",
+      "name": "Domaine Roulot Sangiovese",
+      "vintage": 2021,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 342.77,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "2558220",
+      "name": "Penfolds Grenache",
+      "vintage": 1991,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 17.46,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "2861013",
+      "name": "Quinta do Noval Pinot Noir",
+      "vintage": 2013,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 295.98,
+      "currency": "USD",
+      "score": 66.0
+    }
+  ]
+}

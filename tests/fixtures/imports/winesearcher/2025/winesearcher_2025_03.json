@@ -1,0 +1,115 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "1058163",
+      "name": "Château Lestage Chardonnay",
+      "vintage": 2014,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 441.84,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "7448463",
+      "name": "Château Lestage Chardonnay",
+      "vintage": 1999,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 557.28,
+      "currency": "USD",
+      "score": 60.0
+    },
+    {
+      "lwin": "9378472",
+      "name": "Quinta do Noval Syrah",
+      "vintage": 2013,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 276.22,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "7685871",
+      "name": "Catena Zapata Tempranillo",
+      "vintage": 2006,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 404.2,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "3057485",
+      "name": "Dr. Loosen Syrah",
+      "vintage": 2011,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 571.23,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "1352423",
+      "name": "Château Lestage Tempranillo",
+      "vintage": 1993,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 28.76,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "4326922",
+      "name": "Bodega Muga Pinot Noir",
+      "vintage": 2016,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 310.8,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "8696035",
+      "name": "Quinta do Noval Syrah",
+      "vintage": 2010,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 240.0,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "1133214",
+      "name": "Penfolds Chardonnay",
+      "vintage": 1998,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 289.78,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "5841122",
+      "name": "Bodega Muga Tempranillo",
+      "vintage": 2021,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 449.14,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "6628994",
+      "name": "Bodega Muga Riesling",
+      "vintage": 1999,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 423.74,
+      "currency": "USD",
+      "score": 70.0
+    }
+  ]
+}

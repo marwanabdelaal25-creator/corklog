@@ -1,0 +1,105 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "1352592",
+      "name": "Domaine Roulot Merlot",
+      "vintage": 1995,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 255.0,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "9799833",
+      "name": "Penfolds Chardonnay",
+      "vintage": 2001,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 233.98,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "4464248",
+      "name": "Catena Zapata Pinot Noir",
+      "vintage": 2006,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 473.93,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "5187376",
+      "name": "Château Lestage Merlot",
+      "vintage": 2012,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 589.5,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "2948271",
+      "name": "Bodega Muga Tempranillo",
+      "vintage": 2005,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 219.03,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "3580006",
+      "name": "Catena Zapata Pinot Noir",
+      "vintage": 2017,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 301.71,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "3637431",
+      "name": "Catena Zapata Riesling",
+      "vintage": 2022,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 580.89,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "9233862",
+      "name": "Château Lestage Tempranillo",
+      "vintage": 2009,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 403.9,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "9269761",
+      "name": "Ridge Vineyards Merlot",
+      "vintage": 1997,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 145.03,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "7525387",
+      "name": "Ridge Vineyards Merlot",
+      "vintage": 1991,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 180.34,
+      "currency": "USD",
+      "score": 100.0
+    }
+  ]
+}

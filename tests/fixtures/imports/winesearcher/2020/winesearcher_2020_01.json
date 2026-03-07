@@ -1,0 +1,175 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "8515611",
+      "name": "Penfolds Nebbiolo",
+      "vintage": 2002,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 598.33,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "4310924",
+      "name": "Quinta do Noval Chardonnay",
+      "vintage": 2008,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 504.86,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "3757763",
+      "name": "Quinta do Noval Riesling",
+      "vintage": 1994,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 33.68,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "4450572",
+      "name": "Dr. Loosen Pinot Noir",
+      "vintage": 2022,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 102.79,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "9644595",
+      "name": "Tenuta San Guido Grenache",
+      "vintage": 2004,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 357.44,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "2614773",
+      "name": "Domaine Roulot Sangiovese",
+      "vintage": 1997,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 323.14,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "5720035",
+      "name": "Tenuta San Guido Riesling",
+      "vintage": 1996,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 560.33,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "5179913",
+      "name": "Tenuta San Guido Chardonnay",
+      "vintage": 2014,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 85.97,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "5411215",
+      "name": "Catena Zapata Merlot",
+      "vintage": 1998,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 219.06,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "4715839",
+      "name": "Catena Zapata Grenache",
+      "vintage": 1995,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 228.05,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "8896642",
+      "name": "Penfolds Nebbiolo",
+      "vintage": 2003,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 426.05,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "4615819",
+      "name": "Domaine Roulot Tempranillo",
+      "vintage": 1999,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 432.53,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "1696630",
+      "name": "Domaine Roulot Riesling",
+      "vintage": 2001,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 169.75,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "1622420",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 2010,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 517.77,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "8321099",
+      "name": "Tenuta San Guido Cabernet Sauvignon",
+      "vintage": 2022,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 47.14,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "9788354",
+      "name": "Bodega Muga Pinot Noir",
+      "vintage": 1998,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 35.67,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "8649713",
+      "name": "Domaine Roulot Tempranillo",
+      "vintage": 2012,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 260.14,
+      "currency": "USD",
+      "score": 78.0
+    }
+  ]
+}

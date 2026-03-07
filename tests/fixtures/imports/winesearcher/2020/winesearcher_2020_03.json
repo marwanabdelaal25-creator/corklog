@@ -1,0 +1,105 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "9142951",
+      "name": "Catena Zapata Merlot",
+      "vintage": 2014,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 161.16,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "4645147",
+      "name": "Bodega Muga Grenache",
+      "vintage": 2018,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 340.55,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "2002489",
+      "name": "Catena Zapata Merlot",
+      "vintage": 1993,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 533.02,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "9773266",
+      "name": "Château Lestage Merlot",
+      "vintage": 2015,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 71.93,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "3782367",
+      "name": "Penfolds Nebbiolo",
+      "vintage": 2018,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 222.27,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "8525956",
+      "name": "Domaine Roulot Syrah",
+      "vintage": 2014,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 594.55,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "2717805",
+      "name": "Quinta do Noval Tempranillo",
+      "vintage": 2022,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 294.93,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "5688917",
+      "name": "Château Lestage Riesling",
+      "vintage": 1992,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 274.24,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "2883577",
+      "name": "Catena Zapata Tempranillo",
+      "vintage": 1990,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 337.75,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "4841199",
+      "name": "Quinta do Noval Pinot Noir",
+      "vintage": 2009,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 260.56,
+      "currency": "USD",
+      "score": 90.0
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "4281765",
+      "name": "Penfolds Sangiovese",
+      "vintage": 2020,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 382.27,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "5915299",
+      "name": "Quinta do Noval Sangiovese",
+      "vintage": 2016,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 291.33,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "4685168",
+      "name": "Catena Zapata Merlot",
+      "vintage": 2015,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 47.67,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "2166465",
+      "name": "Domaine Roulot Nebbiolo",
+      "vintage": 2014,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 413.09,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "1417089",
+      "name": "Penfolds Chardonnay",
+      "vintage": 2020,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 384.5,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "2978666",
+      "name": "Penfolds Sangiovese",
+      "vintage": 2019,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 471.59,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "3465714",
+      "name": "Château Lestage Cabernet Sauvignon",
+      "vintage": 2001,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 442.94,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "3689901",
+      "name": "Tenuta San Guido Cabernet Sauvignon",
+      "vintage": 2015,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 137.46,
+      "currency": "USD",
+      "score": 88.0
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "2323620",
+      "name": "Château Lestage Nebbiolo",
+      "vintage": 2007,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 21.03,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "8094333",
+      "name": "Dr. Loosen Riesling",
+      "vintage": 2002,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 410.67,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "1043141",
+      "name": "Tenuta San Guido Grenache",
+      "vintage": 2011,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 200.4,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "1528822",
+      "name": "Quinta do Noval Merlot",
+      "vintage": 2003,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 480.82,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "7573374",
+      "name": "Dr. Loosen Cabernet Sauvignon",
+      "vintage": 2008,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 300.46,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "3592162",
+      "name": "Château Lestage Tempranillo",
+      "vintage": 2004,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 298.5,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "1737971",
+      "name": "Catena Zapata Merlot",
+      "vintage": 1993,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 386.74,
+      "currency": "USD",
+      "score": 100.0
+    },
+    {
+      "lwin": "1034880",
+      "name": "Tenuta San Guido Riesling",
+      "vintage": 2018,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 185.5,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "4898204",
+      "name": "Catena Zapata Merlot",
+      "vintage": 2002,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 419.69,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "8725102",
+      "name": "Dr. Loosen Syrah",
+      "vintage": 2021,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 118.1,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "5434238",
+      "name": "Domaine Roulot Pinot Noir",
+      "vintage": 2012,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 116.13,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "7432796",
+      "name": "Tenuta San Guido Chardonnay",
+      "vintage": 2003,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 458.35,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "7861504",
+      "name": "Ridge Vineyards Pinot Noir",
+      "vintage": 1992,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 514.85,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "5895093",
+      "name": "Ridge Vineyards Chardonnay",
+      "vintage": 2021,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 59.46,
+      "currency": "USD",
+      "score": 60.0
+    },
+    {
+      "lwin": "4540135",
+      "name": "Dr. Loosen Nebbiolo",
+      "vintage": 1999,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 120.46,
+      "currency": "USD",
+      "score": 76.0
+    }
+  ]
+}

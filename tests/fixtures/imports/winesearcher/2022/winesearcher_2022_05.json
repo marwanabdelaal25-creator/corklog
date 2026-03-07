@@ -1,0 +1,105 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "6534185",
+      "name": "Château Lestage Cabernet Sauvignon",
+      "vintage": 2016,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 410.84,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "4658413",
+      "name": "Tenuta San Guido Syrah",
+      "vintage": 2009,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 481.83,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "3527258",
+      "name": "Quinta do Noval Merlot",
+      "vintage": 2012,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 130.78,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "4002208",
+      "name": "Bodega Muga Riesling",
+      "vintage": 2017,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 383.78,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "1287188",
+      "name": "Ridge Vineyards Tempranillo",
+      "vintage": 2006,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 449.28,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "8813474",
+      "name": "Penfolds Nebbiolo",
+      "vintage": 1998,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 581.16,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "9878653",
+      "name": "Catena Zapata Grenache",
+      "vintage": 2020,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 500.63,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "4770673",
+      "name": "Quinta do Noval Merlot",
+      "vintage": 1992,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 240.02,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "6384973",
+      "name": "Penfolds Merlot",
+      "vintage": 2007,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 396.78,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "4082802",
+      "name": "Ridge Vineyards Sangiovese",
+      "vintage": 1993,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 397.17,
+      "currency": "USD",
+      "score": 84.0
+    }
+  ]
+}

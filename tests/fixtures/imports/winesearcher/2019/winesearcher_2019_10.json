@@ -1,0 +1,225 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "8222909",
+      "name": "Penfolds Merlot",
+      "vintage": 1993,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 391.44,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "3587038",
+      "name": "Dr. Loosen Nebbiolo",
+      "vintage": 2020,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 232.73,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "4361840",
+      "name": "Château Lestage Pinot Noir",
+      "vintage": 1996,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 112.24,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "7537434",
+      "name": "Penfolds Syrah",
+      "vintage": 2020,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 328.59,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "3267557",
+      "name": "Quinta do Noval Nebbiolo",
+      "vintage": 2006,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 231.54,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "8436966",
+      "name": "Dr. Loosen Sangiovese",
+      "vintage": 2002,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 382.14,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "5650883",
+      "name": "Quinta do Noval Tempranillo",
+      "vintage": 2012,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 71.57,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "7932124",
+      "name": "Domaine Roulot Cabernet Sauvignon",
+      "vintage": 1997,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 331.54,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "2355516",
+      "name": "Dr. Loosen Pinot Noir",
+      "vintage": 1991,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 285.81,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "6951276",
+      "name": "Château Lestage Cabernet Sauvignon",
+      "vintage": 2004,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 571.85,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "9816870",
+      "name": "Ridge Vineyards Riesling",
+      "vintage": 2013,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 377.95,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "5111536",
+      "name": "Dr. Loosen Merlot",
+      "vintage": 2005,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 410.9,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "5094908",
+      "name": "Penfolds Syrah",
+      "vintage": 1996,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 265.63,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "1085290",
+      "name": "Domaine Roulot Pinot Noir",
+      "vintage": 2020,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 545.9,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "3948418",
+      "name": "Château Lestage Syrah",
+      "vintage": 2000,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 516.48,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "1841412",
+      "name": "Bodega Muga Merlot",
+      "vintage": 1996,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 117.41,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "7456364",
+      "name": "Château Lestage Sangiovese",
+      "vintage": 2008,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 156.26,
+      "currency": "USD",
+      "score": 100.0
+    },
+    {
+      "lwin": "1274182",
+      "name": "Catena Zapata Cabernet Sauvignon",
+      "vintage": 1997,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 216.08,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "1716993",
+      "name": "Bodega Muga Tempranillo",
+      "vintage": 2002,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 488.25,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "6163159",
+      "name": "Dr. Loosen Merlot",
+      "vintage": 1990,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 590.39,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "4840469",
+      "name": "Dr. Loosen Cabernet Sauvignon",
+      "vintage": 1994,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 37.3,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "1439118",
+      "name": "Dr. Loosen Tempranillo",
+      "vintage": 2003,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 447.32,
+      "currency": "USD",
+      "score": 80.0
+    }
+  ]
+}

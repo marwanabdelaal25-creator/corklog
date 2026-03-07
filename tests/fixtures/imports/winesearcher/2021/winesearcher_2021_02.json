@@ -1,0 +1,105 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "3416889",
+      "name": "Domaine Roulot Nebbiolo",
+      "vintage": 2007,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 428.21,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "6339209",
+      "name": "Penfolds Chardonnay",
+      "vintage": 2004,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 328.54,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "1512313",
+      "name": "Quinta do Noval Riesling",
+      "vintage": 2015,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 135.28,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "1881599",
+      "name": "Domaine Roulot Chardonnay",
+      "vintage": 2009,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 78.05,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "2548304",
+      "name": "Penfolds Riesling",
+      "vintage": 1995,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 102.78,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "8373324",
+      "name": "Penfolds Sangiovese",
+      "vintage": 1992,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 433.01,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "6200864",
+      "name": "Tenuta San Guido Pinot Noir",
+      "vintage": 1995,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 157.39,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "5465782",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 2015,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 58.69,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "7597996",
+      "name": "Domaine Roulot Sangiovese",
+      "vintage": 2021,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 591.02,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "6204963",
+      "name": "Château Lestage Nebbiolo",
+      "vintage": 2013,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 372.74,
+      "currency": "USD",
+      "score": 64.0
+    }
+  ]
+}

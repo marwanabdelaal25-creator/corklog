@@ -1,0 +1,195 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "7223022",
+      "name": "Ridge Vineyards Chardonnay",
+      "vintage": 2010,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 156.33,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "9299034",
+      "name": "Château Lestage Cabernet Sauvignon",
+      "vintage": 1994,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 480.27,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "6981034",
+      "name": "Ridge Vineyards Cabernet Sauvignon",
+      "vintage": 1993,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 466.92,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "8738023",
+      "name": "Tenuta San Guido Grenache",
+      "vintage": 2019,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 74.04,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "8254381",
+      "name": "Catena Zapata Grenache",
+      "vintage": 1990,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 487.61,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "7897305",
+      "name": "Catena Zapata Syrah",
+      "vintage": 2009,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 41.99,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "2002724",
+      "name": "Catena Zapata Chardonnay",
+      "vintage": 1998,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 47.59,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "1893139",
+      "name": "Quinta do Noval Cabernet Sauvignon",
+      "vintage": 2005,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 356.22,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "5170134",
+      "name": "Dr. Loosen Sangiovese",
+      "vintage": 1998,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 25.15,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "2236156",
+      "name": "Tenuta San Guido Nebbiolo",
+      "vintage": 2003,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 164.03,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "3731700",
+      "name": "Quinta do Noval Nebbiolo",
+      "vintage": 2002,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 584.47,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "4609157",
+      "name": "Château Lestage Sangiovese",
+      "vintage": 2007,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 550.19,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "5875180",
+      "name": "Catena Zapata Chardonnay",
+      "vintage": 2003,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 599.9,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "5738135",
+      "name": "Catena Zapata Nebbiolo",
+      "vintage": 2022,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 39.57,
+      "currency": "USD",
+      "score": 60.0
+    },
+    {
+      "lwin": "8368253",
+      "name": "Quinta do Noval Syrah",
+      "vintage": 2002,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 546.53,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "7887428",
+      "name": "Quinta do Noval Pinot Noir",
+      "vintage": 2013,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 288.67,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "7971118",
+      "name": "Domaine Roulot Pinot Noir",
+      "vintage": 1995,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 29.14,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "2835608",
+      "name": "Château Lestage Grenache",
+      "vintage": 2005,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 248.12,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "2217367",
+      "name": "Tenuta San Guido Riesling",
+      "vintage": 1995,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 266.0,
+      "currency": "USD",
+      "score": 82.0
+    }
+  ]
+}

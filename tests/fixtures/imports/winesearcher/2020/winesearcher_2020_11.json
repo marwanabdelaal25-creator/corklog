@@ -1,0 +1,95 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "2118277",
+      "name": "Quinta do Noval Merlot",
+      "vintage": 1996,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 389.45,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "7131341",
+      "name": "Catena Zapata Tempranillo",
+      "vintage": 1996,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 330.06,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "5489869",
+      "name": "Dr. Loosen Sangiovese",
+      "vintage": 2009,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 484.44,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "8089621",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 2005,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 41.96,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "4414214",
+      "name": "Quinta do Noval Sangiovese",
+      "vintage": 1995,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 174.11,
+      "currency": "USD",
+      "score": 60.0
+    },
+    {
+      "lwin": "1685637",
+      "name": "Tenuta San Guido Cabernet Sauvignon",
+      "vintage": 1999,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 133.29,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "2238731",
+      "name": "Ridge Vineyards Sangiovese",
+      "vintage": 2004,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 289.36,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "8877109",
+      "name": "Ridge Vineyards Tempranillo",
+      "vintage": 2005,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 303.72,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "7076225",
+      "name": "Ridge Vineyards Chardonnay",
+      "vintage": 1991,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 64.79,
+      "currency": "USD",
+      "score": 98.0
+    }
+  ]
+}

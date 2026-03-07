@@ -1,0 +1,95 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "5465169",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 2010,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 187.53,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "5630322",
+      "name": "Catena Zapata Tempranillo",
+      "vintage": 2014,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 394.17,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "8362849",
+      "name": "Domaine Roulot Sangiovese",
+      "vintage": 1997,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 504.32,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "6468141",
+      "name": "Penfolds Sangiovese",
+      "vintage": 2000,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 472.87,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "5975507",
+      "name": "Château Lestage Chardonnay",
+      "vintage": 2001,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 504.8,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "8930788",
+      "name": "Penfolds Syrah",
+      "vintage": 2021,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 136.1,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "5113987",
+      "name": "Quinta do Noval Merlot",
+      "vintage": 1991,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 15.06,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "1600162",
+      "name": "Bodega Muga Tempranillo",
+      "vintage": 1993,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 108.19,
+      "currency": "USD",
+      "score": 60.0
+    },
+    {
+      "lwin": "9663782",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 2014,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 317.35,
+      "currency": "USD",
+      "score": 68.0
+    }
+  ]
+}

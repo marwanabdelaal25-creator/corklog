@@ -1,0 +1,185 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "9307082",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 2008,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 424.34,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "1010401",
+      "name": "Château Lestage Syrah",
+      "vintage": 2000,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 555.77,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "4062001",
+      "name": "Dr. Loosen Merlot",
+      "vintage": 2017,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 223.2,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "6815080",
+      "name": "Quinta do Noval Cabernet Sauvignon",
+      "vintage": 2013,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 185.47,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "9236121",
+      "name": "Château Lestage Nebbiolo",
+      "vintage": 2006,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 425.4,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "5069176",
+      "name": "Catena Zapata Sangiovese",
+      "vintage": 2007,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 258.31,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "6287011",
+      "name": "Quinta do Noval Riesling",
+      "vintage": 2010,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 298.23,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "3535510",
+      "name": "Dr. Loosen Merlot",
+      "vintage": 2005,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 230.05,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "2736786",
+      "name": "Ridge Vineyards Nebbiolo",
+      "vintage": 1991,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 191.07,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "4164927",
+      "name": "Quinta do Noval Pinot Noir",
+      "vintage": 2007,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 500.48,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "8829741",
+      "name": "Domaine Roulot Syrah",
+      "vintage": 1995,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 458.13,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "1924448",
+      "name": "Domaine Roulot Chardonnay",
+      "vintage": 1996,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 431.49,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "7954356",
+      "name": "Dr. Loosen Sangiovese",
+      "vintage": 2006,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 290.06,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "1747335",
+      "name": "Dr. Loosen Syrah",
+      "vintage": 2006,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 436.97,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "2223945",
+      "name": "Château Lestage Pinot Noir",
+      "vintage": 2005,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 89.58,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "6332555",
+      "name": "Dr. Loosen Tempranillo",
+      "vintage": 1991,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 457.74,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "9610645",
+      "name": "Quinta do Noval Grenache",
+      "vintage": 2021,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 440.85,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "2997258",
+      "name": "Tenuta San Guido Cabernet Sauvignon",
+      "vintage": 2007,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 396.03,
+      "currency": "USD",
+      "score": 90.0
+    }
+  ]
+}

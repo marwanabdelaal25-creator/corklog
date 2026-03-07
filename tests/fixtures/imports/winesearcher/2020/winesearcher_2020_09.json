@@ -1,0 +1,95 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "3622274",
+      "name": "Dr. Loosen Riesling",
+      "vintage": 2010,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 358.28,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "5115488",
+      "name": "Domaine Roulot Riesling",
+      "vintage": 1997,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 191.99,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "6216949",
+      "name": "Bodega Muga Tempranillo",
+      "vintage": 1998,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 115.95,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "4626183",
+      "name": "Penfolds Grenache",
+      "vintage": 2002,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 66.01,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "2581709",
+      "name": "Penfolds Cabernet Sauvignon",
+      "vintage": 1997,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 34.4,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "7989649",
+      "name": "Ridge Vineyards Nebbiolo",
+      "vintage": 2012,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 379.02,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "8439196",
+      "name": "Château Lestage Pinot Noir",
+      "vintage": 2001,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 211.49,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "4622618",
+      "name": "Château Lestage Sangiovese",
+      "vintage": 2019,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 540.98,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "7514991",
+      "name": "Domaine Roulot Sangiovese",
+      "vintage": 2001,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 353.73,
+      "currency": "USD",
+      "score": 70.0
+    }
+  ]
+}

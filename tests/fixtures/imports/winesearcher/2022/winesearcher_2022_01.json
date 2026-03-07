@@ -1,0 +1,105 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "9866591",
+      "name": "Ridge Vineyards Nebbiolo",
+      "vintage": 2022,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 137.4,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "1230000",
+      "name": "Penfolds Tempranillo",
+      "vintage": 1996,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 103.63,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "8373504",
+      "name": "Ridge Vineyards Tempranillo",
+      "vintage": 2022,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 481.51,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "6037066",
+      "name": "Dr. Loosen Chardonnay",
+      "vintage": 1991,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 596.85,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "9722244",
+      "name": "Penfolds Nebbiolo",
+      "vintage": 2014,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 532.09,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "6693920",
+      "name": "Catena Zapata Grenache",
+      "vintage": 2011,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 239.95,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "5183613",
+      "name": "Domaine Roulot Grenache",
+      "vintage": 2019,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 331.34,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "5170406",
+      "name": "Château Lestage Chardonnay",
+      "vintage": 1997,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 121.87,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "8504249",
+      "name": "Bodega Muga Merlot",
+      "vintage": 2009,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 205.51,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "4328321",
+      "name": "Domaine Roulot Riesling",
+      "vintage": 1991,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 96.58,
+      "currency": "USD",
+      "score": 94.0
+    }
+  ]
+}

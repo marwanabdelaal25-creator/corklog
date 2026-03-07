@@ -1,0 +1,185 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "5763884",
+      "name": "Dr. Loosen Sangiovese",
+      "vintage": 1995,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 155.68,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "5504559",
+      "name": "Quinta do Noval Cabernet Sauvignon",
+      "vintage": 2007,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 496.7,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "2428626",
+      "name": "Tenuta San Guido Chardonnay",
+      "vintage": 2017,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 521.26,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "7864438",
+      "name": "Bodega Muga Chardonnay",
+      "vintage": 2000,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 450.42,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "3697138",
+      "name": "Bodega Muga Pinot Noir",
+      "vintage": 1999,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 384.28,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "5527247",
+      "name": "Penfolds Tempranillo",
+      "vintage": 1992,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 444.8,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "8183313",
+      "name": "Tenuta San Guido Riesling",
+      "vintage": 1995,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 418.99,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "9849705",
+      "name": "Tenuta San Guido Syrah",
+      "vintage": 1993,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 430.27,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "7041184",
+      "name": "Quinta do Noval Tempranillo",
+      "vintage": 2020,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 45.51,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "3222686",
+      "name": "Dr. Loosen Cabernet Sauvignon",
+      "vintage": 2001,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 454.64,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "8935612",
+      "name": "Château Lestage Sangiovese",
+      "vintage": 2015,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 307.5,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "2781870",
+      "name": "Château Lestage Cabernet Sauvignon",
+      "vintage": 2008,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 504.83,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "1850070",
+      "name": "Quinta do Noval Grenache",
+      "vintage": 1997,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 351.62,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "9361160",
+      "name": "Penfolds Merlot",
+      "vintage": 1991,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 458.55,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "7550020",
+      "name": "Dr. Loosen Pinot Noir",
+      "vintage": 2017,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 308.81,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "1639824",
+      "name": "Tenuta San Guido Pinot Noir",
+      "vintage": 1995,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 453.44,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "9207748",
+      "name": "Bodega Muga Merlot",
+      "vintage": 1994,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 369.05,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "2348365",
+      "name": "Château Lestage Merlot",
+      "vintage": 2010,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 365.42,
+      "currency": "USD",
+      "score": 70.0
+    }
+  ]
+}

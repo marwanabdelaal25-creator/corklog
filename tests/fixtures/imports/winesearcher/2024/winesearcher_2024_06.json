@@ -1,0 +1,145 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "2432229",
+      "name": "Château Lestage Chardonnay",
+      "vintage": 2006,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 530.61,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "9528735",
+      "name": "Château Lestage Pinot Noir",
+      "vintage": 2018,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 248.36,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "2931539",
+      "name": "Dr. Loosen Riesling",
+      "vintage": 1997,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 462.34,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "7883644",
+      "name": "Château Lestage Syrah",
+      "vintage": 1997,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 137.91,
+      "currency": "USD",
+      "score": 60.0
+    },
+    {
+      "lwin": "7844326",
+      "name": "Dr. Loosen Pinot Noir",
+      "vintage": 2019,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 301.34,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "3333610",
+      "name": "Ridge Vineyards Sangiovese",
+      "vintage": 2022,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 485.14,
+      "currency": "USD",
+      "score": 60.0
+    },
+    {
+      "lwin": "3255505",
+      "name": "Domaine Roulot Pinot Noir",
+      "vintage": 2013,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 415.34,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "2034126",
+      "name": "Catena Zapata Grenache",
+      "vintage": 2019,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 302.9,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "3409579",
+      "name": "Quinta do Noval Tempranillo",
+      "vintage": 2021,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 109.84,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "2914303",
+      "name": "Tenuta San Guido Cabernet Sauvignon",
+      "vintage": 1996,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 250.72,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "5352054",
+      "name": "Tenuta San Guido Merlot",
+      "vintage": 2012,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 323.42,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "4566490",
+      "name": "Dr. Loosen Pinot Noir",
+      "vintage": 2018,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 251.76,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "2209271",
+      "name": "Ridge Vineyards Merlot",
+      "vintage": 2012,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 409.09,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "9439942",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 1997,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 208.13,
+      "currency": "USD",
+      "score": 72.0
+    }
+  ]
+}

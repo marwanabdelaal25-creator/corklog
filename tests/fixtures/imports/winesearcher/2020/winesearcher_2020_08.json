@@ -1,0 +1,115 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "7998147",
+      "name": "Tenuta San Guido Nebbiolo",
+      "vintage": 1990,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 116.85,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "3131950",
+      "name": "Château Lestage Cabernet Sauvignon",
+      "vintage": 2003,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 387.6,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "1954608",
+      "name": "Ridge Vineyards Cabernet Sauvignon",
+      "vintage": 2013,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 320.42,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "2859187",
+      "name": "Catena Zapata Syrah",
+      "vintage": 2021,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 363.25,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "5074690",
+      "name": "Penfolds Chardonnay",
+      "vintage": 2014,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 184.33,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "1594121",
+      "name": "Catena Zapata Nebbiolo",
+      "vintage": 2015,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 155.24,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "8262149",
+      "name": "Tenuta San Guido Sangiovese",
+      "vintage": 2020,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 445.02,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "6716691",
+      "name": "Catena Zapata Cabernet Sauvignon",
+      "vintage": 2013,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 478.43,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "1787917",
+      "name": "Château Lestage Chardonnay",
+      "vintage": 2002,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 437.85,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "8705949",
+      "name": "Château Lestage Chardonnay",
+      "vintage": 1994,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 297.74,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "7711963",
+      "name": "Penfolds Pinot Noir",
+      "vintage": 2004,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 532.74,
+      "currency": "USD",
+      "score": 82.0
+    }
+  ]
+}

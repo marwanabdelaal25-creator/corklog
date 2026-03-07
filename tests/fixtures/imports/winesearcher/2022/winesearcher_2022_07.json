@@ -1,0 +1,195 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "2017339",
+      "name": "Château Lestage Tempranillo",
+      "vintage": 1999,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 312.64,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "9838420",
+      "name": "Catena Zapata Sangiovese",
+      "vintage": 2013,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 507.86,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "5371606",
+      "name": "Tenuta San Guido Syrah",
+      "vintage": 2007,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 167.21,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "3051655",
+      "name": "Ridge Vineyards Pinot Noir",
+      "vintage": 2017,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 546.83,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "4879828",
+      "name": "Bodega Muga Nebbiolo",
+      "vintage": 1993,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 54.73,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "3987317",
+      "name": "Domaine Roulot Grenache",
+      "vintage": 1992,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 32.25,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "1525396",
+      "name": "Quinta do Noval Pinot Noir",
+      "vintage": 2004,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 549.12,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "1256353",
+      "name": "Ridge Vineyards Tempranillo",
+      "vintage": 1993,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 598.88,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "3407649",
+      "name": "Dr. Loosen Tempranillo",
+      "vintage": 2008,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 211.28,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "5841537",
+      "name": "Catena Zapata Grenache",
+      "vintage": 1998,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 162.42,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "2525745",
+      "name": "Domaine Roulot Riesling",
+      "vintage": 2022,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 179.38,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "7114107",
+      "name": "Quinta do Noval Tempranillo",
+      "vintage": 2006,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 503.01,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "7372983",
+      "name": "Penfolds Riesling",
+      "vintage": 2014,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 14.36,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "6541526",
+      "name": "Ridge Vineyards Cabernet Sauvignon",
+      "vintage": 1991,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 283.12,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "5322642",
+      "name": "Quinta do Noval Cabernet Sauvignon",
+      "vintage": 1997,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 496.41,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "4940482",
+      "name": "Quinta do Noval Syrah",
+      "vintage": 2013,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 27.69,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "5314187",
+      "name": "Catena Zapata Riesling",
+      "vintage": 2015,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 311.45,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "6862510",
+      "name": "Quinta do Noval Syrah",
+      "vintage": 2005,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 93.75,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "8463546",
+      "name": "Quinta do Noval Nebbiolo",
+      "vintage": 2017,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 186.79,
+      "currency": "USD",
+      "score": 74.0
+    }
+  ]
+}

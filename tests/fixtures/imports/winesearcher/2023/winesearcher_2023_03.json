@@ -1,0 +1,175 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "3517963",
+      "name": "Bodega Muga Chardonnay",
+      "vintage": 2019,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 331.66,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "8858484",
+      "name": "Château Lestage Riesling",
+      "vintage": 1996,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 429.72,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "9377315",
+      "name": "Domaine Roulot Chardonnay",
+      "vintage": 1993,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 56.89,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "9868489",
+      "name": "Dr. Loosen Syrah",
+      "vintage": 2002,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 568.1,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "6914991",
+      "name": "Bodega Muga Chardonnay",
+      "vintage": 1993,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 411.68,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "4652246",
+      "name": "Quinta do Noval Cabernet Sauvignon",
+      "vintage": 1994,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 155.03,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "3503516",
+      "name": "Ridge Vineyards Cabernet Sauvignon",
+      "vintage": 2000,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 78.3,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "2565413",
+      "name": "Ridge Vineyards Chardonnay",
+      "vintage": 2015,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 597.23,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "9954975",
+      "name": "Tenuta San Guido Merlot",
+      "vintage": 2003,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 23.78,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "6439065",
+      "name": "Quinta do Noval Nebbiolo",
+      "vintage": 2005,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 231.96,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "6640491",
+      "name": "Penfolds Pinot Noir",
+      "vintage": 2017,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 398.97,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "1291017",
+      "name": "Château Lestage Riesling",
+      "vintage": 2000,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 258.04,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "6736462",
+      "name": "Château Lestage Cabernet Sauvignon",
+      "vintage": 2000,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 193.98,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "3175221",
+      "name": "Bodega Muga Grenache",
+      "vintage": 2005,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 455.21,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "8419350",
+      "name": "Bodega Muga Sangiovese",
+      "vintage": 2006,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 25.15,
+      "currency": "USD",
+      "score": 70.0
+    },
+    {
+      "lwin": "5317355",
+      "name": "Ridge Vineyards Cabernet Sauvignon",
+      "vintage": 1998,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 241.41,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "8314120",
+      "name": "Dr. Loosen Grenache",
+      "vintage": 1998,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 361.8,
+      "currency": "USD",
+      "score": 82.0
+    }
+  ]
+}

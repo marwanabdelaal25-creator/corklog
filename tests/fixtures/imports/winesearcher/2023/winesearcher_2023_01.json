@@ -1,0 +1,95 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "4034642",
+      "name": "Catena Zapata Sangiovese",
+      "vintage": 1998,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 71.63,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "5849477",
+      "name": "Catena Zapata Merlot",
+      "vintage": 1990,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 179.12,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "4564633",
+      "name": "Château Lestage Merlot",
+      "vintage": 2002,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 397.03,
+      "currency": "USD",
+      "score": 86.0
+    },
+    {
+      "lwin": "7782184",
+      "name": "Domaine Roulot Tempranillo",
+      "vintage": 1992,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 61.89,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "9219195",
+      "name": "Château Lestage Syrah",
+      "vintage": 2011,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 596.66,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "1774273",
+      "name": "Dr. Loosen Cabernet Sauvignon",
+      "vintage": 2021,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 80.3,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "4390831",
+      "name": "Quinta do Noval Chardonnay",
+      "vintage": 1995,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 551.43,
+      "currency": "USD",
+      "score": 100.0
+    },
+    {
+      "lwin": "8676374",
+      "name": "Catena Zapata Syrah",
+      "vintage": 1998,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 13.3,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "9335761",
+      "name": "Quinta do Noval Nebbiolo",
+      "vintage": 1996,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 439.31,
+      "currency": "USD",
+      "score": 70.0
+    }
+  ]
+}

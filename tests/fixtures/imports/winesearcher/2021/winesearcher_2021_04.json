@@ -1,0 +1,95 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "3260594",
+      "name": "Catena Zapata Sangiovese",
+      "vintage": 2021,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 39.95,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "7919231",
+      "name": "Bodega Muga Cabernet Sauvignon",
+      "vintage": 1990,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 165.51,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "5405587",
+      "name": "Bodega Muga Nebbiolo",
+      "vintage": 1991,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 107.34,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "9256534",
+      "name": "Dr. Loosen Syrah",
+      "vintage": 2021,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 198.75,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "4651704",
+      "name": "Bodega Muga Merlot",
+      "vintage": 1997,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 152.26,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "4775897",
+      "name": "Château Lestage Tempranillo",
+      "vintage": 2000,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 570.88,
+      "currency": "USD",
+      "score": 100.0
+    },
+    {
+      "lwin": "2426800",
+      "name": "Quinta do Noval Merlot",
+      "vintage": 2008,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 557.09,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "1445187",
+      "name": "Catena Zapata Riesling",
+      "vintage": 2003,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 105.59,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "7646399",
+      "name": "Penfolds Sangiovese",
+      "vintage": 2021,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 113.96,
+      "currency": "USD",
+      "score": 66.0
+    }
+  ]
+}

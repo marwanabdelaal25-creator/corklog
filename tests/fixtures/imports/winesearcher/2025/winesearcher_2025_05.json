@@ -1,0 +1,165 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "5157616",
+      "name": "Château Lestage Cabernet Sauvignon",
+      "vintage": 2020,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 216.74,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "2271182",
+      "name": "Bodega Muga Cabernet Sauvignon",
+      "vintage": 2004,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 369.27,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "7566188",
+      "name": "Tenuta San Guido Pinot Noir",
+      "vintage": 2012,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 510.16,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "4364257",
+      "name": "Château Lestage Pinot Noir",
+      "vintage": 2015,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 128.31,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "3710597",
+      "name": "Tenuta San Guido Pinot Noir",
+      "vintage": 2009,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 453.78,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "7280052",
+      "name": "Domaine Roulot Riesling",
+      "vintage": 1994,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 443.77,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "7831376",
+      "name": "Domaine Roulot Cabernet Sauvignon",
+      "vintage": 2018,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 82.68,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "1339153",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 2016,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 216.75,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "9072248",
+      "name": "Bodega Muga Riesling",
+      "vintage": 1998,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 136.22,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "3918524",
+      "name": "Catena Zapata Tempranillo",
+      "vintage": 2019,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 171.74,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "6528423",
+      "name": "Catena Zapata Pinot Noir",
+      "vintage": 1994,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 234.71,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "6720505",
+      "name": "Quinta do Noval Pinot Noir",
+      "vintage": 2011,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 438.22,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "3502973",
+      "name": "Catena Zapata Sangiovese",
+      "vintage": 1994,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 370.02,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "7663227",
+      "name": "Penfolds Pinot Noir",
+      "vintage": 2017,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 248.0,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "3177485",
+      "name": "Château Lestage Grenache",
+      "vintage": 1996,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 499.43,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "4543922",
+      "name": "Château Lestage Nebbiolo",
+      "vintage": 2005,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 474.16,
+      "currency": "USD",
+      "score": 98.0
+    }
+  ]
+}

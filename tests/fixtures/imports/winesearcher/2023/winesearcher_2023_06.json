@@ -1,0 +1,125 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "4889951",
+      "name": "Penfolds Merlot",
+      "vintage": 2009,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 367.53,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "2368704",
+      "name": "Tenuta San Guido Merlot",
+      "vintage": 2022,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 433.09,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "1589574",
+      "name": "Penfolds Merlot",
+      "vintage": 2012,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 347.12,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "4303627",
+      "name": "Bodega Muga Chardonnay",
+      "vintage": 2013,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 438.5,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "4883507",
+      "name": "Dr. Loosen Grenache",
+      "vintage": 1990,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 22.09,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "9640687",
+      "name": "Bodega Muga Grenache",
+      "vintage": 2005,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 467.08,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "7506656",
+      "name": "Catena Zapata Cabernet Sauvignon",
+      "vintage": 1990,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 189.52,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "7454897",
+      "name": "Ridge Vineyards Chardonnay",
+      "vintage": 2021,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 68.3,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "6859914",
+      "name": "Quinta do Noval Cabernet Sauvignon",
+      "vintage": 2014,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 438.15,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "4440862",
+      "name": "Catena Zapata Sangiovese",
+      "vintage": 2005,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 461.33,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "3883267",
+      "name": "Penfolds Syrah",
+      "vintage": 2012,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 189.69,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "1433751",
+      "name": "Tenuta San Guido Riesling",
+      "vintage": 2017,
+      "region": "Barossa Valley",
+      "country": "Australia",
+      "price": 557.38,
+      "currency": "USD",
+      "score": 96.0
+    }
+  ]
+}

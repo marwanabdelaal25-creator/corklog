@@ -1,0 +1,195 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "7861265",
+      "name": "Ridge Vineyards Syrah",
+      "vintage": 1994,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 228.89,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "1184391",
+      "name": "Penfolds Syrah",
+      "vintage": 2006,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 375.86,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "7333854",
+      "name": "Domaine Roulot Sangiovese",
+      "vintage": 2021,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 570.2,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "3257052",
+      "name": "Catena Zapata Merlot",
+      "vintage": 2008,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 255.3,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "3486352",
+      "name": "Quinta do Noval Chardonnay",
+      "vintage": 2010,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 130.81,
+      "currency": "USD",
+      "score": 100.0
+    },
+    {
+      "lwin": "1755988",
+      "name": "Château Lestage Syrah",
+      "vintage": 1990,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 30.12,
+      "currency": "USD",
+      "score": 88.0
+    },
+    {
+      "lwin": "8619750",
+      "name": "Quinta do Noval Tempranillo",
+      "vintage": 2002,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 26.16,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "7802689",
+      "name": "Château Lestage Syrah",
+      "vintage": 1995,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 361.23,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "4556695",
+      "name": "Ridge Vineyards Chardonnay",
+      "vintage": 2013,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 112.23,
+      "currency": "USD",
+      "score": 92.0
+    },
+    {
+      "lwin": "6312450",
+      "name": "Quinta do Noval Grenache",
+      "vintage": 2008,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 444.88,
+      "currency": "USD",
+      "score": 90.0
+    },
+    {
+      "lwin": "2934218",
+      "name": "Bodega Muga Nebbiolo",
+      "vintage": 2004,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 397.85,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "8971607",
+      "name": "Domaine Roulot Merlot",
+      "vintage": 2017,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 32.6,
+      "currency": "USD",
+      "score": 80.0
+    },
+    {
+      "lwin": "2228252",
+      "name": "Domaine Roulot Nebbiolo",
+      "vintage": 2003,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 66.83,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "4840159",
+      "name": "Dr. Loosen Syrah",
+      "vintage": 1997,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 217.77,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "4030496",
+      "name": "Penfolds Nebbiolo",
+      "vintage": 2008,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 213.0,
+      "currency": "USD",
+      "score": 76.0
+    },
+    {
+      "lwin": "4580534",
+      "name": "Domaine Roulot Cabernet Sauvignon",
+      "vintage": 2019,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 590.0,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "5066528",
+      "name": "Ridge Vineyards Tempranillo",
+      "vintage": 2015,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 345.08,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "8202293",
+      "name": "Dr. Loosen Cabernet Sauvignon",
+      "vintage": 2000,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 153.86,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "1251702",
+      "name": "Domaine Roulot Merlot",
+      "vintage": 2014,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 170.99,
+      "currency": "USD",
+      "score": 96.0
+    }
+  ]
+}

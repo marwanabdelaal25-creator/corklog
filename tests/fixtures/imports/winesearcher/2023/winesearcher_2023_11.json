@@ -1,0 +1,85 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "2706778",
+      "name": "Tenuta San Guido Cabernet Sauvignon",
+      "vintage": 1995,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 100.06,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "8460968",
+      "name": "Dr. Loosen Riesling",
+      "vintage": 1991,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 227.88,
+      "currency": "USD",
+      "score": 72.0
+    },
+    {
+      "lwin": "3203509",
+      "name": "Domaine Roulot Sangiovese",
+      "vintage": 1990,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 76.4,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "6555391",
+      "name": "Ridge Vineyards Merlot",
+      "vintage": 2019,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 487.11,
+      "currency": "USD",
+      "score": 66.0
+    },
+    {
+      "lwin": "5139877",
+      "name": "Ridge Vineyards Nebbiolo",
+      "vintage": 2000,
+      "region": "Burgundy",
+      "country": "France",
+      "price": 115.61,
+      "currency": "USD",
+      "score": 78.0
+    },
+    {
+      "lwin": "6048160",
+      "name": "Domaine Roulot Grenache",
+      "vintage": 2022,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 449.15,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "2576024",
+      "name": "Tenuta San Guido Sangiovese",
+      "vintage": 1997,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 315.76,
+      "currency": "USD",
+      "score": 82.0
+    },
+    {
+      "lwin": "3029955",
+      "name": "Dr. Loosen Grenache",
+      "vintage": 2012,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "price": 445.18,
+      "currency": "USD",
+      "score": 86.0
+    }
+  ]
+}

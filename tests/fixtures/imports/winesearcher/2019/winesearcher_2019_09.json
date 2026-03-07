@@ -1,0 +1,95 @@
+{
+  "page": 1,
+  "wines": [
+    {
+      "lwin": "8377317",
+      "name": "Dr. Loosen Syrah",
+      "vintage": 2009,
+      "region": "Bordeaux",
+      "country": "France",
+      "price": 512.79,
+      "currency": "USD",
+      "score": 94.0
+    },
+    {
+      "lwin": "9861758",
+      "name": "Penfolds Cabernet Sauvignon",
+      "vintage": 1996,
+      "region": "Rioja",
+      "country": "Spain",
+      "price": 339.53,
+      "currency": "USD",
+      "score": 68.0
+    },
+    {
+      "lwin": "4671613",
+      "name": "Bodega Muga Tempranillo",
+      "vintage": 2000,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 518.43,
+      "currency": "USD",
+      "score": 84.0
+    },
+    {
+      "lwin": "1382379",
+      "name": "Ridge Vineyards Merlot",
+      "vintage": 2021,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 226.05,
+      "currency": "USD",
+      "score": 64.0
+    },
+    {
+      "lwin": "2682379",
+      "name": "Dr. Loosen Grenache",
+      "vintage": 2005,
+      "region": "Napa Valley",
+      "country": "USA",
+      "price": 33.36,
+      "currency": "USD",
+      "score": 96.0
+    },
+    {
+      "lwin": "4956376",
+      "name": "Quinta do Noval Nebbiolo",
+      "vintage": 2016,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 368.58,
+      "currency": "USD",
+      "score": 62.0
+    },
+    {
+      "lwin": "7985256",
+      "name": "Tenuta San Guido Merlot",
+      "vintage": 1992,
+      "region": "Mosel",
+      "country": "Germany",
+      "price": 396.39,
+      "currency": "USD",
+      "score": 98.0
+    },
+    {
+      "lwin": "8133958",
+      "name": "Catena Zapata Pinot Noir",
+      "vintage": 2001,
+      "region": "Tuscany",
+      "country": "Italy",
+      "price": 96.67,
+      "currency": "USD",
+      "score": 74.0
+    },
+    {
+      "lwin": "2145203",
+      "name": "Tenuta San Guido Nebbiolo",
+      "vintage": 2020,
+      "region": "Douro",
+      "country": "Portugal",
+      "price": 434.15,
+      "currency": "USD",
+      "score": 84.0
+    }
+  ]
+}
